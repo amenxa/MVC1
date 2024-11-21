@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|c:\\users\\admin\\source\\repos\\mvcapl1\\models\\data\\appdpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|solutionrelative:models\\data\\appdpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|c:\\users\\admin\\source\\repos\\mvcapl1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|c:\\users\\admin\\source\\repos\\mvcapl1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|c:\\users\\admin\\source\\repos\\mvcapl1\\migrations\\appdpcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|solutionrelative:migrations\\appdpcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|c:\\users\\admin\\source\\repos\\mvcapl1\\migrations\\20241017114405_renamedescrption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|solutionrelative:migrations\\20241017114405_renamedescrption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|c:\\users\\admin\\source\\repos\\mvcapl1\\migrations\\20241105183713_maxlen55.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|solutionrelative:migrations\\20241105183713_maxlen55.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|c:\\users\\admin\\source\\repos\\mvcapl1\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|c:\\users\\admin\\source\\repos\\mvcapl1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|c:\\users\\admin\\source\\repos\\mvcapl1\\views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|solutionrelative:views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|c:\\users\\admin\\source\\repos\\mvcapl1\\views\\item\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|solutionrelative:views\\item\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|c:\\users\\admin\\source\\repos\\mvcapl1\\views\\item\\newitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|solutionrelative:views\\item\\newitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|c:\\users\\admin\\source\\repos\\mvcapl1\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|solutionrelative:controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|c:\\users\\admin\\source\\repos\\mvcapl1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|c:\\users\\admin\\source\\repos\\mvcapl1\\views\\shared\\_partilanoti.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27CD61FE-5B44-4B0D-BC84-0756E084EDF1}|mvcapl1.csproj|solutionrelative:views\\shared\\_partilanoti.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Models\\Item.cs",
+              "RelativeToolTip": "Models\\Item.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:50:19.734Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDpContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Migrations\\AppDpContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDpContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Migrations\\AppDpContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDpContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:16:57.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241105183713_maxlen55.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Migrations\\20241105183713_maxlen55.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241105183713_maxlen55.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Migrations\\20241105183713_maxlen55.cs",
+              "RelativeToolTip": "Migrations\\20241105183713_maxlen55.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:37:13.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T23:46:47.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T23:30:55.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDpContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Models\\Data\\AppDpContext.cs",
+              "RelativeDocumentMoniker": "Models\\Data\\AppDpContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Models\\Data\\AppDpContext.cs",
+              "RelativeToolTip": "Models\\Data\\AppDpContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:51:28.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241017114405_renameDEscrption.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Migrations\\20241017114405_renameDEscrption.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241017114405_renameDEscrption.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Migrations\\20241017114405_renameDEscrption.cs",
+              "RelativeToolTip": "Migrations\\20241017114405_renameDEscrption.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:44:05.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Views\\Item\\delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Item\\delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Views\\Item\\delete.cshtml",
+              "RelativeToolTip": "Views\\Item\\delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T11:41:19.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:31:56.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "newItem.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Views\\Item\\newItem.cshtml",
+              "RelativeDocumentMoniker": "Views\\Item\\newItem.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Views\\Item\\newItem.cshtml",
+              "RelativeToolTip": "Views\\Item\\newItem.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T22:32:14.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T19:02:53.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "Controllers\\ItemController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:55:03.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_partilanoti.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Views\\Shared\\_partilanoti.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_partilanoti.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Views\\Shared\\_partilanoti.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_partilanoti.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T18:49:07.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Views\\Item\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Item\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mvcapl1\\Views\\Item\\Index.cshtml",
+              "RelativeToolTip": "Views\\Item\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T14:24:01.981Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
